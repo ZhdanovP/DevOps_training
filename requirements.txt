@@ -1,0 +1,6 @@
+codecov
+pytest-django
+pytest
+pytest-cov
+mixer
+selenium
